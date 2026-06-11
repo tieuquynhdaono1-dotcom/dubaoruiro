@@ -17,8 +17,8 @@ import io
 # ==========================================
 st.set_page_config(
     layout="wide",
-    page_title="Hệ thống Phát hiện Giao dịch Gian lận",
-    page_icon="🛡️"
+    page_title="Hệ thống Phát hiện gian lận tại Agribank",
+    page_icon="😍"
 )
 
 # ==========================================
@@ -93,7 +93,7 @@ with st.sidebar:
 # ==========================================
 # THÀNH PHẦN 2: HEADER — VÙNG ĐỊNH HƯỚNG
 # ==========================================
-st.title("🛡️ Hệ thống Phát hiện & Quản trị Rủi ro Giao dịch Gian lận")
+st.title("❤️Hệ thống học máy phát hiện Giao dịch Gian lận tại Agribank❤️")
 st.caption("Ứng dụng hỗ trợ phân tích dữ liệu tài chính, phát hiện hành vi giao dịch bất thường mang tính gian lận tín dụng thông qua mô hình học máy nâng cao.")
 
 # Kiểm tra trạng thái dữ liệu đầu vào
